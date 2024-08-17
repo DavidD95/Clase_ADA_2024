@@ -1,14 +1,1 @@
-1. Descripción del Problema para la Organización:
-Actualmente en el servicio de imágenes diagnosticas falta de un sistema de optimización de la ocupación de los equipos biomédicos lo cual 
-provoca problemas como oportunidad lejana en la atención,
-subutilización en ciertos momentos del día, y potenciales pérdidas de ingresos debido a la ineficiencia operativa. 
 
-2. Justificación:
-La ciencia de datos puede analizar los datos históricos de ocupación para identificar patrones, picos de demanda 
-y factores que influyen en la variabilidad de la ocupación.
-La IA puede ser utilizada para optimizar la asignación de citas y tiempos de uso de los equipos, 
-minimizando tiempos muertos y maximizando la utilización del equipo.
-
-3.Pregunta SMART:
-
-¿Cual es la ocupación de los equipos en imagenes diagnosticas por franja horaria en el primer semestre del 2024?
